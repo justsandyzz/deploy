@@ -103,5 +103,5 @@ elif option == "ℹ️ About":
     Built using **Streamlit**, **Python**, and will include **ML/DL integration**.
     """)
 
-    st.markdown("Created by: 'Santhosh P and Sibi R")
+    st.markdown("Created by: Santhosh P and Sibi R")
 
